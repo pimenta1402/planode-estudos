@@ -1,0 +1,10 @@
+Exercícios
+
+
+1 - Sabendo que o fenótipo roxo nas flores de ervilha é dominante e a cor branca e recessiva. Determine a porcentagem do genótipo e o fenótipo dos descendentes de um cruzamento entre uma ervilha heterozigótica para essa característica e uma homozigótica dominante.
+
+2 -  Realize o cruzamento entre duas ervilhas heterozigóticas para essa característica e demonstre a porcentagem do genótipo e o fenótipo dos descendentes.
+
+3 -  Realize o cruzamento entre uma ervilha homozigótica dominante e outra homozigótica recessiva para essa característica e demonstre a porcentagem do genótipo e o fenótipo dos descendentes.
+
+4 -  Realize o cruzamento entre uma ervilha heterozigótica e outra homozigótica recessiva para essa característica e demonstre a porcentagem do genótipo e o fenótipo dos descendentes.
